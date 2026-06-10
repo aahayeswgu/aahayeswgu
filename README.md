@@ -7,6 +7,8 @@ I build software that solves real problems, and I work on security in the lab.
   public internet, forwarded its logs into a Microsoft Sentinel SIEM, hunted the attacks
   with KQL, and mapped global attacker origins.
   → [azure-soc-sentinel-lab](https://github.com/aahayeswgu/azure-soc-sentinel-lab)
+- **MetroScan** — a private B2B software product I designed and built. *(private)*
+- **Groundwork** — a private commercial web platform I designed and built. *(private)*
 
 ### Working with
 Python · TypeScript / Next.js · Azure · Microsoft Sentinel / KQL · Supabase ·
