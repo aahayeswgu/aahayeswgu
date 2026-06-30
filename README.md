@@ -1,3 +1,5 @@
+<p align="center"><img src="profile-banner.svg" alt="Alan Hayes - USAF veteran building software and security" width="820"></p>
+
 # Alan Hayes
 
 USAF veteran. I build software that solves real problems, and I work on security in the lab.
