@@ -25,18 +25,21 @@ I build software that solves real problems, and I work on security in the lab. U
 ## Working with
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-1c2333?style=flat-square&logo=python&logoColor=56ccf2" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-1c2333?style=flat-square&logo=typescript&logoColor=56ccf2" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-1c2333?style=flat-square&logo=nextdotjs&logoColor=56ccf2" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-1c2333?style=flat-square&logo=react&logoColor=56ccf2" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind-1c2333?style=flat-square&logo=tailwindcss&logoColor=56ccf2" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=56ccf2" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-0b1220?style=for-the-badge&logo=typescript&logoColor=56ccf2" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-0b1220?style=for-the-badge&logo=nextdotjs&logoColor=56ccf2" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react&logoColor=56ccf2" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind-0b1220?style=for-the-badge&logo=tailwindcss&logoColor=56ccf2" alt="Tailwind CSS">
   <br>
-  <img src="https://img.shields.io/badge/Supabase-1c2333?style=flat-square&logo=supabase&logoColor=56ccf2" alt="Supabase">
-  <img src="https://img.shields.io/badge/PostgreSQL-1c2333?style=flat-square&logo=postgresql&logoColor=56ccf2" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Azure-1c2333?style=flat-square&logo=microsoftazure&logoColor=56ccf2" alt="Azure">
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel%20%2F%20KQL-1c2333?style=flat-square&logo=microsoft&logoColor=56ccf2" alt="Microsoft Sentinel / KQL">
-  <img src="https://img.shields.io/badge/Splunk-1c2333?style=flat-square&logo=splunk&logoColor=56ccf2" alt="Splunk">
-  <img src="https://img.shields.io/badge/Linux-1c2333?style=flat-square&logo=linux&logoColor=56ccf2" alt="Linux">
+  <img src="https://img.shields.io/badge/Supabase-0b1220?style=for-the-badge&logo=supabase&logoColor=56ccf2" alt="Supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=56ccf2" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Vercel-0b1220?style=for-the-badge&logo=vercel&logoColor=56ccf2" alt="Vercel">
+  <img src="https://img.shields.io/badge/Azure-0b1220?style=for-the-badge&logo=microsoftazure&logoColor=56ccf2" alt="Azure">
+  <br>
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0b1220?style=for-the-badge&logo=microsoft&logoColor=56ccf2" alt="Microsoft Sentinel">
+  <img src="https://img.shields.io/badge/KQL-0b1220?style=for-the-badge&logo=microsoft&logoColor=56ccf2" alt="KQL">
+  <img src="https://img.shields.io/badge/Splunk-0b1220?style=for-the-badge&logo=splunk&logoColor=56ccf2" alt="Splunk">
+  <img src="https://img.shields.io/badge/Linux-0b1220?style=for-the-badge&logo=linux&logoColor=56ccf2" alt="Linux">
 </p>
 
 
