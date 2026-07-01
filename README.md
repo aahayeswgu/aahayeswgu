@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://tracecast.app"><img src="https://img.shields.io/badge/tracecast.app-0b1220?style=flat-square&logo=vercel&logoColor=56ccf2" alt="Website"></a>
   <a href="https://www.linkedin.com/in/alan-hayeswgu"><img src="https://img.shields.io/badge/LinkedIn-0b1220?style=flat-square&logo=linkedin&logoColor=56ccf2" alt="LinkedIn"></a>
-  <a href="mailto:aahayes95@gmail.com"><img src="https://img.shields.io/badge/Email-0b1220?style=flat-square&logo=gmail&logoColor=56ccf2" alt="Email"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aahayes95@gmail.com"><img src="https://img.shields.io/badge/Email-0b1220?style=flat-square&logo=gmail&logoColor=56ccf2" alt="Email"></a>
   <img src="https://img.shields.io/badge/Tampa,%20FL-0b1220?style=flat-square&logo=googlemaps&logoColor=56ccf2" alt="Location">
 </p>
 
@@ -50,7 +50,7 @@ B.S. in IT at WGU. Sharpening offensive security through hands-on labs.
 ### Contact
 - 🌐 [tracecast.app](https://tracecast.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alan-hayeswgu)
-- 📧 [aahayes95@gmail.com](mailto:aahayes95@gmail.com)
+- 📧 [aahayes95@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=aahayes95@gmail.com)
 
 ---
 
