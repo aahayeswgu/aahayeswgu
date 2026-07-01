@@ -39,12 +39,7 @@ I build software that solves real problems, and I work on security in the lab. U
   <img src="https://img.shields.io/badge/Linux-1c2333?style=flat-square&logo=linux&logoColor=56ccf2" alt="Linux">
 </p>
 
-## By the numbers
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aahayeswgu&show_icons=true&hide_border=true&title_color=56ccf2&icon_color=56ccf2&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahayeswgu&layout=compact&hide_border=true&title_color=56ccf2&text_color=c9d1d9&bg_color=0d1117" alt="Top languages">
-</p>
 
 ### Also
 B.S. in IT at WGU. Sharpening offensive security through hands-on labs.
