@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Tampa,%20FL-0b1220?style=flat-square&logo=googlemaps&logoColor=56ccf2" alt="Location">
 </p>
 
-I build software that solves real problems, and I work on security in the lab. USAF veteran (F-15E armament, 335th FS), finishing a B.S. in IT, building B2B signal engines under **Tracecast LLC**.
+I build software that solves real problems, and I work on security in the lab. USAF veteran (F-15E, 335th FS), finishing a B.S. in IT, building B2B signal engines under **Tracecast LLC**.
 
 ## Things I've built
 
