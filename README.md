@@ -55,5 +55,5 @@ B.S. in IT at WGU. Sharpening offensive security through hands-on labs.
 ---
 
 <p align="center">
-  <img src="tracecast-logo.png" alt="Tracecast LLC - custom signal engines for B2B" width="360">
+  <img src="tracecast-logo.svg" alt="Tracecast LLC: custom signal engines for B2B" width="480">
 </p>
