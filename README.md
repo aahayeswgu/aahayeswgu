@@ -9,18 +9,17 @@
   <img src="https://img.shields.io/badge/Tampa,%20FL-0b1220?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
-I build software that solves real problems, and I work on security in the lab. USAF veteran (F-15E, 335th FS), finishing a B.S. in IT, building B2B signal engines under **Tracecast LLC**.
+USAF veteran (F-15E, 335th FS), finishing a B.S. in IT at WGU. I build B2B signal engines under **Tracecast LLC** and run a home security lab.
 
 ## Things I've built
 
-- **Azure SOC - Sentinel honeynet & attack map** - stood up a Windows honeypot on the public internet, forwarded its logs into a Microsoft Sentinel SIEM, hunted the attacks with KQL, and mapped global attacker origins.
-  → [Azure-SOC-Sentinel-Lab](https://github.com/aahayeswgu/Azure-SOC-Sentinel-Lab)
-- **MetroScan** - a B2B lead-signal engine: reads public data, finds businesses showing buying signals, scores and ranks them into a shortlist worth calling now. *(overview public, source private)*
-  → [MetroScan](https://github.com/aahayeswgu/MetroScan)
-- **Groundwork** - a map-first field-sales platform: prospecting, a pin CRM, route planning, and visit tracking in one place. *(overview public, source private)*
-  → [Groundwork-Platform](https://github.com/aahayeswgu/Groundwork-Platform)
-- **WatchTower** - open-source early warning that turns publicly advertised gatherings into lead time. Public data only. *(overview public, source private)*
-  → [WatchTower-OSINT](https://github.com/aahayeswgu/WatchTower-OSINT)
+🎯 **[MetroScan](https://github.com/aahayeswgu/MetroScan)** finds B2B leads worth calling. A Python pipeline in five stages (search, crawl, enrich, verify, score), then an LLM ranks each lead and shows the evidence. Runs on live accounts. Source private.
+
+🗺️ **[Groundwork](https://github.com/aahayeswgu/Groundwork-Platform)** is a map-first field-sales app: drop pins, plan routes, log visits. v1 is a live PWA; v2 is a Next.js and Supabase rebuild, Android-packaged with Capacitor. In real field use.
+
+🛡️ **[Azure SOC lab](https://github.com/aahayeswgu/Azure-SOC-Sentinel-Lab)**: a Windows honeypot left open on the internet, logs piped into Microsoft Sentinel, attacks hunted with KQL and pinned to a live world map.
+
+📡 **[WatchTower](https://github.com/aahayeswgu/WatchTower-OSINT)** is open-source OSINT, public data only. Swappable collectors (GDELT, Telegram) plus flyer recognition built on Google Vision and Gemini.
 
 ## Working with
 
@@ -51,9 +50,3 @@ B.S. in IT at WGU. Sharpening offensive security through hands-on labs.
 - 🌐 [tracecast.app](https://tracecast.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alan-hayeswgu)
 - 📧 [aahayes95@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=aahayes95@gmail.com)
-
----
-
-<p align="center">
-  <img src="tracecast-logo.svg" alt="Tracecast LLC: custom signal engines for B2B" width="480">
-</p>
