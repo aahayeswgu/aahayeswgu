@@ -9,17 +9,47 @@
   <img src="https://img.shields.io/badge/Tampa,%20FL-0b1220?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
-USAF veteran (F-15E, 335th FS), finishing a B.S. in IT at WGU. I build B2B signal engines under **Tracecast LLC** and run a home security lab.
+USAF veteran (F-15E armament, 335th FS). Six years on the flightline as a weapons troop,
+instructor, and quality assurance evaluator, with a Middle East deployment in there. That work
+runs on checklists, sign-offs, and zero tolerance for guessing, and it shaped how I build
+software.
+
+Now finishing a B.S. in Information Technology at WGU. I build B2B signal engines under
+**Tracecast LLC**, run a home security lab, and I'm working toward a SOC analyst seat.
+Bilingual, English and Spanish.
+
+## Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-0b1220?style=for-the-badge&logoColor=56ccf2" alt="CompTIA Security+">
+  <img src="https://img.shields.io/badge/CompTIA%20A%2B-0b1220?style=for-the-badge&logoColor=56ccf2" alt="CompTIA A+">
+  <img src="https://img.shields.io/badge/CompTIA%20ITF%2B-0b1220?style=for-the-badge&logoColor=56ccf2" alt="CompTIA ITF+">
+  <img src="https://img.shields.io/badge/ITIL%20Foundation-0b1220?style=for-the-badge&logoColor=56ccf2" alt="ITIL Foundation">
+</p>
 
 ## Things I've built
 
-🎯 **[MetroScan](https://github.com/aahayeswgu/MetroScan)** finds B2B leads worth calling. A Python pipeline in five stages (search, crawl, enrich, verify, score), then an LLM ranks each lead and shows the evidence. Runs on live accounts. Source private.
+**[MetroScan](https://github.com/aahayeswgu/MetroScan)** finds businesses that look ready to buy.
+It reads public information about companies across an entire metro, works out which ones are
+hiring or growing right now, and hands a sales team a ranked call list with the evidence behind
+every ranking. Running on live accounts today.
 
-🗺️ **[Groundwork](https://github.com/aahayeswgu/Groundwork-Platform)** is a map-first field-sales app: drop pins, plan routes, log visits. v1 is a live PWA; v2 is a Next.js and Supabase rebuild, Android-packaged with Capacitor. In real field use.
+**[Groundwork](https://github.com/aahayeswgu/Groundwork-Platform)** is a field sales platform. It
+maps a rep's territory, scopes the businesses in it, and surfaces the best leads to hit next.
+Then it runs the day itself: route planning, visit logging, and saving a new contact by
+photographing their business card. In daily use by a working rep, live on web and Android.
 
-🛡️ **[Azure SOC lab](https://github.com/aahayeswgu/Azure-SOC-Sentinel-Lab)**: a Windows honeypot left open on the internet, logs piped into Microsoft Sentinel, attacks hunted with KQL and pinned to a live world map.
+**[Azure SOC lab](https://github.com/aahayeswgu/Azure-SOC-Sentinel-Lab)** is a full SIEM
+detection lab I built and ran myself. A decoy Windows machine left open on the internet, logs
+streamed into Microsoft Sentinel, KQL detection queries and alert rules written to catch what
+came at it, and tens of thousands of real attack attempts traced to their sources on a live
+world map. The full build, the queries, and the findings report are in the repo.
 
-📡 **[WatchTower](https://github.com/aahayeswgu/WatchTower-OSINT)** is open-source OSINT, public data only. Swappable collectors (GDELT, Telegram) plus flyer recognition built on Google Vision and Gemini.
+**[WatchTower](https://github.com/aahayeswgu/WatchTower-OSINT)** is an early warning system for
+large public gatherings, built entirely on public data. It monitors open platforms, reads event
+flyers with AI vision, separates real events from harmless look-alikes, ranks them by how many
+independent sources corroborate them, and delivers a short intelligence brief before the event
+happens, while there is still time to plan for it.
 
 ## Working with
 
@@ -43,8 +73,21 @@ USAF veteran (F-15E, 335th FS), finishing a B.S. in IT at WGU. I build B2B signa
 
 
 
-### Also
-B.S. in IT at WGU. Sharpening offensive security through hands-on labs.
+## Offensive security practice
+
+The SOC lab above is how I learn to catch attacks. This is where I learn how attacks actually
+work, by running them myself in a controlled lab.
+
+I work from Kali Linux against intentionally vulnerable targets and structured training
+platforms. A typical session starts with reconnaissance in Nmap to map what a target exposes,
+moves to matching the discovered services against known vulnerabilities with searchsploit, and
+then works an exploit through with Metasploit until I have access and understand exactly why it
+worked. Metasploitable is the standing practice target; HackTheBox and TryHackMe supply
+progressively harder boxes on top of that.
+
+Running both sides matters. Generating an attack myself, then turning around and finding it in
+the logs, is what makes the detection work sharper. I know what a brute-force run or a service
+scan looks like in a SIEM because I have been the source of one.
 
 ### Contact
 - 🌐 [tracecast.app](https://tracecast.app)
