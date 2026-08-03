@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" alt="Alan Hayes - USAF veteran building software and security" width="100%">
+  <img src="banner.gif" alt="Alan Hayes, USAF veteran building software and security" width="100%">
 </p>
 
 <p align="center">
